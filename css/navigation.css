@@ -1,0 +1,11 @@
+.tab-bar{
+  background-color: #f7f7f7;
+  color: white;
+  padding: 5px 10px 15px 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  padding-top: top;
+}
