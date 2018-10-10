@@ -59,5 +59,11 @@
 
 .more__option .more__option-title {
   margin-top: 10px;
-
+  font-size: 12px;
 }
+
+.more .more__plus-friends {
+  padding: 20px 10px;
+}
+
+.more__plus-friends .more__plus-friends
